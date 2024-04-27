@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=ZQsrcayZcSk&list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo&index=7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
