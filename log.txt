@@ -20,3 +20,18 @@
 1714225320373:/search?search_query=tit+tak+toe new req received
 1714225591385:/search?search_query=tit+tak+toe new req received
 1714225746510:/search?search_query=tit+tak+toe new req received
+1714228305772:/search?search_query=tit+tak+toe1 new req received
+1714228530305:/search?search_query=tit+tak+toe2 new req received
+1714228661010:/search?search_query=tit+tak+toe3 new req received
+1714228691787:/about/biswajit new req received
+------------------------------------------------------
+HTTP Methods https://www.youtube.com/watch?v=kREAjKyPbSI&list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo&index=9 
+------------------------------------------------------
+1714228938133:GET/ new req received
+1714229061257:GET/about new req received
+1714282214854:GET/signup new req received
+1714282271918:GET/signup new req received
+1714282367617:GET/signup new req received
+1714282423065:GET/signup new req received
+1714282540738:GET/signup new req received
+1714282585344:GET/signup new req received
